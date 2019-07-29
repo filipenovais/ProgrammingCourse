@@ -1,7 +1,7 @@
 Programming
 ====
 
-Repository for the Programming course.
+Repository for the final project of the Programming course.
 
 Project
 --------
